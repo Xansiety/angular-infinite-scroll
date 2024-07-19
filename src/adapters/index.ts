@@ -1,1 +1,2 @@
-export * from './character.ts.adapter';
+export * from './character.adapter';
+export * from './index';
